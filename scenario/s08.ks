@@ -1,0 +1,172 @@
+;1ページの行数は21行まで。
+;1行の文字数は37文字まで。
+*test|テスト
+
+*s08|第三章-02
+[cm]
+;ムービー再生
+[video left="0" top="0" width="800" height="600" visible="true"]
+[playvideo storage="int1.mpg"]
+[wv canskip=&sf.movieCanskip]
+[fadein storage="tou_sera"]
+[bgmon storage="piano"]
+[msgon]
+; ショートカットボタン表示/非表示
+[exsysbtopt forevisible=true backvisible=true]
+[backlay]
+[charset storage="taiin_N+seihuku" pos=l]
+[charset storage="taiin_N+seihuku" pos=r]
+[charon]
+毎朝、わたしの所へ来て連絡や任務、報告をするのはいつも二人組だ。[lr]
+報告書を持ち、わたしに直接指示を与える、"偉い"人。[lr]
+固定の人間ではなく、何人かが交代にやってくる。だけど、必ず二人組。[lr]
+[charon storage="tore_tumetai+seihuku"]
+そして護衛長が、その後ろで見ている。[lr]
+…元々、ホープシティで、姉を守っていた者。[lr]
+彼は少し引いた位置で話を聞いているだけだ。[lr]
+[r]
+[backlay]
+[charset storage="taiin_N+seihuku" pos=l]
+[charset storage="taiin_N+seihuku" pos=r]
+[charon]
+「…以上だ。それと、街への逃走の間関わりのあったと見られる少年についての処分だが…」[lr]
+[r]
+その時、ぼんやりと指示を聞いていたわたしは、最後に付け足されたその台詞にはっと顔を上げた。[pc]
+
+
+少年。…ジオの事だ。[lr]
+[r]
+「飛行機の所持に加え、No.０を匿っていた罪により、最終処分対象と判断された」[lr]
+[charoff]
+;※あれだけ厳重な倉庫に隠してたのにばれたの？
+[r]
+それを聞いた瞬間に、わたしの中でかっと熱くなるものがあった。[lr]
+わたしの変容に気付かず、報告書を畳んで早々に去ろうとする二人組。[lr]
+その背中を全力で睨み付け、唸る。自分でも驚くほど低い声が出た。[lr]
+[r]
+[charon storage="sera_nirami+wanpi"]
+「…やめろ」[lr]
+[r]
+ぴたりと彼らの足が止まり、振り返る。[lr]
+感情のない冷たい視線がこちらを射抜く。[pc]
+;※この冷たい視線は、二人組の視線？
+
+
+[backlay]
+[charset storage="taiin_N+seihuku" pos=l]
+[charset storage="taiin_N+seihuku" pos=r]
+[charon]
+負けられない。これだけは譲れない。[lr]
+わたしが睨み返していると、割り込んできたのは涼やかな声だった。[lr]
+[r]
+[charon storage="tore_hushigi+seihuku"]
+「No.０。我侭はいけませんよ」[lr]
+[r]
+入り口付近の壁際に背を預け、事を見守るように立って居た、護衛長だった。[lr]
+いつも困ったように眉を顰めて、諭すように優しく話すのが特徴だ。[lr]
+他のリーガルの人間とは違い、こいつはわたしを真っ直ぐに見ながら話してくれるのだ。[lr]
+だからわたしも、こいつと話す時だけは、視線を逸らさない。[lr]
+例えどんなに言い難い事を言うときだって。[lr]
+[r]
+[backlay]
+[charset storage="sera_nirami+wanpi" pos=l]
+[charset storage="tore_hushigi+seihuku" pos=r]
+[charon]
+「…ジオに手を出したら、わたしは舌をかみきって、しぬぞ」[lr]
+[r]
+「…No.０…」[pc]
+
+
+本気だ。もし他のリーガルの人間だったら、信じてもらえなかったかもしれない。[lr]
+だが、こいつなら。こいつだけは。[lr]
+[r]
+[charon storage="tore_egao+seihuku" pos=r]
+「…仕方ありませんね。ですが、次はありませんよ？」[lr]
+[r]
+肩をすくめ、苦笑と共に短い溜息を吐いて見せると、立ち尽くしてこちらの様子を伺っていた二人組に告げた。[lr]
+[r]
+「少年への処置は取止めです。別途、改めて検討しましょう」[lr]
+[r]
+ただし、No.０のご機嫌を損ねない程度にしないといけませんね。[lr]
+[charoff]
+冗談を交える護衛長に対して、二人組はどこか苦々しい顔で頷き、部屋を出て行った。[pc]
+
+
+[dash]わたしは連れ戻されたのだ。[lr]
+[r]
+無駄に天井が高く、目の覚めるような白で纏められた自分の部屋。[lr]
+真っ白な床に膝を付き、上半身を真っ白なシーツの敷かれたベットにうつ伏せる。[lr]
+頭から伸びる何本ものコードが、髪に絡んで鬱陶しい。[lr]
+[r]
+ジオと一緒に居た数日が、脳裏を巡る。[lr]
+ジオの家はここよりも狭い筈だが、わたしにとって、とても開放感のある場所に感じられた。[pc]
+
+
+コードなど引きちぎってしまいたい。[lr]
+もう一度ジオの元に行きたい。[lr]
+だが実際そうした時に、街はどれだけ持ってくれるだろう。[lr]
+わたしが再びジオに会えるまで、正常に機能してくれるだろうか。[lr]
+[r]
+一週間程ここを離れていただけだというのに、この街は制御を失いつつあり、システムの至る所に綻びが出始めていた。[lr]
+わたしはこうしてベットにもたれながらも、頭から繋がるこのコードを経由して、その綻びを繕う作業に追われているのだ。[pc]
+
+
+過度の疲労からか頭が重い。苦しい。[lr]
+…もう一度、ジオに…。[lr]
+[charon storage="sera_komari+wanpi"]
+「…[wait time="500"]だめだ。わかっている」[lr]
+弱音が零れそうだ。自分に言い聞かせるために、ぼそりと呟いてみた。[lr]
+[charoff]
+言葉の上では納得している。[lr]
+これ以上、街に無理はさせられない。[lr]
+今以上の負荷をかけた場合、生活システムの崩壊が起き、住人が生きていけない空間になってしまう恐れがある。[lr]
+;※「今以上の負荷をかけた場合、生活システムの崩壊が起き、住人の生きられない空間になってしまう恐れがある」が良いかと。
+フィズやミリィ、そして、マーケットで出会った店の人間達。彼らの顔が次々に思い浮かぶ。[lr]
+わたしがジオに会えるその時まで、この街が持つかどうか。[lr]
+そんな危険な賭けのために、彼らの笑顔を犠牲には出来ない。[pc]
+
+
+それに、今回こそ何とかわたしの意志を押し通したが…[lr]
+次はきっとジオを巻き込む。[lr]
+…迷惑など掛けたくない。[lr]
+[r]
+[charon storage="sera_komari+wanpi"]
+「…だめなんだ…わかってる…」[lr]
+[r]
+そう、納得している。理解もしている。…諦めて、いる。[lr]
+[r]
+「…わかって…るんだ…」[lr]
+[r]
+シーツを掴み、熱くなる顔を力いっぱい押し付ける。[pc]
+
+
+わかりきった事を繰り返しながら、込み上げてくる気持ちをねじ伏せようと唇を噛む。[lr]
+だが、見えるのは辛い現実ばかりだ。[lr]
+[r]
+つまり。[lr]
+わたしはもう多分、ジオと一緒にそらを目指せないという事実。[lr]
+[r]
+[charoff]
+「うぅ…っ、う…ぅっ…」[lr]
+[r]
+ああ、この目から零れる生温かいものは何だろう。[lr]
+拭うのも面倒で、シーツを濡らすままに放っておいた。[pc]
+
+
+[fadeblack]
+[fadein storage="tou_sera"]
+;◆ここから先は誰の視点？僕って誰だ…
+彼女が泣くのを初めて見た。[lr]
+[r]
+皓々とした白い光の中で、ベットに突っ伏したその白くて華奢な肩が、嗚咽に合わせて小さく震えていた。[lr]
+一瞬手を伸ばして、その小さな背中を抱き締めてやりたいと思った。[lr]
+だが、同時にそれは[dash]私には出来ない事だと、思った。[pc]
+
+
+; ショートカットボタン表示/非表示
+[exsysbtopt forevisible=false backvisible=false]
+[bgmoff time=3000]
+[fadeblack time="3000" canskip="false"]
+[wait time="1500" canskip="false"]
+
+[jump storage="first.ks" target=*main08E]
